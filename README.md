@@ -30,5 +30,5 @@ Sou uma desenvolvedora apaixonada por criar soluções inovadoras e impactantes.
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=biancafariasdev&show_icons=true)
 
 ## Contato
-- LinkedIn: [biancafariasdev](https://github.com/biancafariasdev)
+- LinkedIn: [biancafariasdev]([https://www.linkedin.com/in/biancafariasdev/)
 - Email: bianca.dcfarias@gmail.com
